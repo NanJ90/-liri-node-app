@@ -1,5 +1,5 @@
 {
-  "name": "liri",
+  "name": "project",
   "version": "1.0.0",
   "description": "homework ",
   "main": "liri.js",
@@ -20,6 +20,7 @@
     "node-spotify-api": "^1.0.6",
     "request": "^2.81.0",
     "spotify": "^0.3.0",
-    "twitter": "^1.7.1"
+    "twitter": "^1.7.1",
+    "twitter-screen-name": "^1.0.0"
   }
 }
