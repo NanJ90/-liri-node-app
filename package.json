@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NanJ90/liri-node-app#readme",
   "dependencies": {
+    "log4js": "^2.3.3",
     "node-spotify-api": "^1.0.6",
     "request": "^2.81.0",
     "spotify": "^0.3.0",
